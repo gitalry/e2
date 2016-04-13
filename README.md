@@ -1,3 +1,4 @@
 # e2
 ###what is e2?
-................its a PSD2HTML dry run.
+PSD2HTML front-end coding.
+Its a SAGE website build using Foundation Zurb
