@@ -5,15 +5,13 @@
     margin: auto;
 
 }
-#header{
-
-    height:10%;
-    background-color: black;
+#topper{color: white;
+    background-color: #392F33;
 }
 
 #bottom{
     height:50%;
-    background-color: black;
+  background-color: #392F33;
 
 }
 #full{
