@@ -20,7 +20,7 @@
 }
 
 #half1{
-    background-color: purple;
+    background-color:gainsboro;
     height:100%;
     float:left;
     width:50%;
@@ -43,23 +43,24 @@
 
 #row2{
 
-   background-color:darkgrey;
+   background-color:grey;
      height:%;
     width:33.3%;
     float:left;}
 
     #row2b{
 
-   background-color:#392F33;
+   background-color:gainsboro;
      height:%;
     width:33.3%;
     float:left;
-}#row2c
-  background-color:gray;
+}#row2c{
+  background-color:dimgray;
      height:%;
     width:33.3%;
     float:left
 
+}
 #row3{
     background-color: whitesmoke;
      height:20%;
