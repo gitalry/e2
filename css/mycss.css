@@ -58,7 +58,7 @@
   background-color:dimgray;
      height:%;
     width:33.3%;
-    float:left
+    float:left;
 
 }
 #row3{
@@ -77,10 +77,11 @@
 }
 
 #half4{
-    height:100%;
-    width:50%;
+   display: inline;
     background-color:white;
     float: left;
+    height:100%;
+    width:50%;
 }
 
 #half5{
